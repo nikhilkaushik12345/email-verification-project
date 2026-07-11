@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "date": "2026-07-11",
+    "method": "Perplexity AI Web Search",
+    "domains_searched": 26,
+    "total_emails_found": 14,
+    "success_rate": "53.8%"
+  },
+  "verified_emails": [
+    {
+      "domain": "8returns.com",
+      "email": "support@8returns.com",
+      "source": "Zenfulfillment integration docs",
+      "confidence": "High",
+      "alternatives": ["privacy@8returns.com"]
+    },
+    {
+      "domain": "3bee.com",
+      "email": "info@3bee.it",
+      "source": "Support portal",
+      "confidence": "High",
+      "alternatives": ["privacy@3bee.com"]
+    },
+    {
+      "domain": "aimlapi.com",
+      "email": "help@aimlapi.com",
+      "source": "Contact page + Help Center",
+      "confidence": "High",
+      "alternatives": ["hello@aimlapi.com", "sales@aimlapi.com"]
+    },
+    {
+      "domain": "arpi.ai",
+      "email": "contact@arpi.ai",
+      "source": "Official contact page",
+      "confidence": "High",
+      "alternatives": ["support@arpi.ai"],
+      "phone": "+82-31-738-0110"
+    },
+    {
+      "domain": "artisan.ai",
+      "email": "hello@artisan.co",
+      "source": "Newsroom + Crunchbase",
+      "confidence": "High",
+      "alternatives": ["privacy@artisan.co", "dpo@artisan.co"]
+    },
+    {
+      "domain": "atlas.ai",
+      "email": "support@atlas-ai.io",
+      "source": "Official contact page",
+      "confidence": "High",
+      "note": "Multiple Atlas companies exist"
+    },
+    {
+      "domain": "atomicai.com",
+      "email": "info@atomic.ai",
+      "source": "Official website footer",
+      "confidence": "High",
+      "alternatives": ["bd@atomic.ai"],
+      "note": "Domain is atomicai.com but site is atomic.ai"
+    },
+    {
+      "domain": "avada.io",
+      "email": "win@avada.io",
+      "source": "Help Center",
+      "confidence": "High",
+      "alternatives": ["support@avada.io", "hi@avada.io"],
+      "phone": "+84-24-66871163"
+    },
+    {
+      "domain": "avantstay.com",
+      "email": "experience@avantstay.com",
+      "source": "Official contact page",
+      "confidence": "High",
+      "phone": "1-833-442-8268"
+    },
+    {
+      "domain": "adivaha.com",
+      "email": "info@adivaha.com",
+      "source": "Contact page + Trustpilot",
+      "confidence": "High",
+      "phone": "+91-88514-77865"
+    },
+    {
+      "domain": "amazingcontent.io",
+      "email": "marketing@amazingcontent.io",
+      "source": "Official contact page",
+      "confidence": "High",
+      "phone": "+33-6-70-39-42-97"
+    }
+  ],
+  "inferred_emails": [
+    {
+      "domain": "aide.app",
+      "email": "support@aide.app",
+      "confidence": "Medium",
+      "note": "Standard pattern, not explicitly confirmed"
+    },
+    {
+      "domain": "autogen.ai",
+      "email": "support@autogenai.com",
+      "confidence": "Medium",
+      "note": "Inferred from autogenai.com domain"
+    },
+    {
+      "domain": "avantix.dev",
+      "email": "info@avantix.app",
+      "confidence": "Medium",
+      "note": "Related Avantix entity contact"
+    }
+  ],
+  "alternative_methods": [
+    {
+      "domain": "10x-partners.com",
+      "method": "Contact Form",
+      "url": "https://www.10x-partners.com/contact",
+      "note": "Swiss-based Palantir partner; no public email"
+    },
+    {
+      "domain": "arrise.com",
+      "method": "Privacy Email Only",
+      "email": "privacy@arrise.com",
+      "note": "No general support email found"
+    },
+    {
+      "domain": "asana.com",
+      "method": "Chatbot Support",
+      "url": "help.asana.com",
+      "email": "mobile-feedback@support.asana.com",
+      "note": "App feedback only; no general support email"
+    }
+  ],
+  "no_email_found": [
+    {
+      "domain": "auraai.io",
+      "reason": "Domain appears inactive or misidentified",
+      "alternatives": ["getaura.ai", "aura-app.ai", "withaura.io"]
+    }
+  ],
+  "summary": {
+    "total_domains": 26,
+    "verified_emails": 11,
+    "inferred_emails": 3,
+    "alternative_methods": 3,
+    "no_email_found": 1,
+    "total_emails_found": 14,
+    "success_rate_percent": 53.8
+  }
+}

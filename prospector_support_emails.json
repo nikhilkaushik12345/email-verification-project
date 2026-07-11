@@ -1,0 +1,98 @@
+[
+  {
+    "domain": "10x-partners.com",
+    "email": "hello@10x-partners.com",
+    "status": "verified",
+    "mx_host": "SMTP.GOOGLE.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "8returns.com",
+    "email": "support@8returns.com",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "3bee.com",
+    "email": "info@3bee.com",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "aide.app",
+    "email": "support@aide.app",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "aimlapi.com",
+    "email": "support@aimlapi.com",
+    "status": "verified",
+    "mx_host": "smtp.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "arpi.ai",
+    "email": "support@arpi.ai",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "asana.com",
+    "email": "support@asana.com",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "atomicai.com",
+    "email": "support@atomicai.com",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "avada.io",
+    "email": "support@avada.io",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "avantstay.com",
+    "email": "support@avantstay.com",
+    "status": "verified",
+    "mx_host": "aspmx.l.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "avantix.dev",
+    "email": "abuse@avantix.dev",
+    "status": "verified",
+    "mx_host": "smtp.google.com",
+    "smtp_code": 250,
+    "confidence": 95
+  },
+  {
+    "domain": "amazingcontent.io",
+    "email": "support@amazingcontent.io",
+    "status": "verified",
+    "mx_host": "ASPMX.L.GOOGLE.COM",
+    "smtp_code": 250,
+    "confidence": 95
+  }
+]

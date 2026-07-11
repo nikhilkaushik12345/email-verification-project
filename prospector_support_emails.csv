@@ -1,0 +1,13 @@
+domain,email,status,mx_host,smtp_code,confidence
+10x-partners.com,hello@10x-partners.com,verified,SMTP.GOOGLE.com,250,95
+8returns.com,support@8returns.com,verified,aspmx.l.google.com,250,95
+3bee.com,info@3bee.com,verified,aspmx.l.google.com,250,95
+aide.app,support@aide.app,verified,aspmx.l.google.com,250,95
+aimlapi.com,support@aimlapi.com,verified,smtp.google.com,250,95
+arpi.ai,support@arpi.ai,verified,aspmx.l.google.com,250,95
+asana.com,support@asana.com,verified,aspmx.l.google.com,250,95
+atomicai.com,support@atomicai.com,verified,aspmx.l.google.com,250,95
+avada.io,support@avada.io,verified,aspmx.l.google.com,250,95
+avantstay.com,support@avantstay.com,verified,aspmx.l.google.com,250,95
+avantix.dev,abuse@avantix.dev,verified,smtp.google.com,250,95
+amazingcontent.io,support@amazingcontent.io,verified,ASPMX.L.GOOGLE.COM,250,95

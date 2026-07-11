@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "aimlapi.com",
+    "email": "help@aimlapi.com",
+    "source": "homepage",
+    "status": "verified",
+    "smtp_code": 250,
+    "mx_host": "smtp.google.com",
+    "confidence": 95
+  },
+  {
+    "domain": "avada.io",
+    "email": "support@avada.io",
+    "source": "homepage",
+    "status": "verified",
+    "smtp_code": 250,
+    "mx_host": "alt2.aspmx.l.google.com",
+    "confidence": 95
+  }
+]

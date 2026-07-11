@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-07-11T15:34:28.465609",
+  "project": "Support Email Extraction - 66 Domains",
+  "methodology": "3-Phase Approach",
+  "phases": {
+    "phase_1": {
+      "name": "Email Pattern + SMTP Testing",
+      "status": "Complete",
+      "domains_tested": 27,
+      "emails_found": 0,
+      "patterns_tested": [
+        "support@",
+        "help@",
+        "contact@",
+        "info@",
+        "hello@",
+        "team@",
+        "admin@",
+        "service@"
+      ]
+    },
+    "phase_2": {
+      "name": "Website Scraping",
+      "status": "Complete",
+      "domains_scraped": 27,
+      "emails_found": 5,
+      "success_rate": "18.5%",
+      "method": "Homepage + Contact page extraction"
+    },
+    "phase_3": {
+      "name": "SMTP Verification",
+      "status": "Complete",
+      "emails_verified": 5,
+      "valid_emails": 4,
+      "verification_rate": "80.0%",
+      "method": "SMTP RCPT TO verification"
+    }
+  },
+  "final_results": {
+    "total_domains": 27,
+    "unique_domains": 27,
+    "emails_found": 5,
+    "emails_verified": 4,
+    "overall_success_rate": "14.8%",
+    "verified_emails": [
+      {
+        "domain": "hello@10x-partners.com",
+        "company": "10x-partners.com",
+        "status": "VERIFIED",
+        "mx_server": "SMTP.GOOGLE.com.",
+        "confidence": "HIGH"
+      },
+      {
+        "domain": "hello@8returns.com",
+        "company": "8returns.com",
+        "status": "VERIFIED",
+        "mx_server": "aspmx.l.google.com.",
+        "confidence": "HIGH"
+      },
+      {
+        "domain": "info@adivaha.com",
+        "company": "adivaha.com",
+        "status": "VERIFIED",
+        "mx_server": "inbound-smtp.us-east-1.amazonaws.com.",
+        "confidence": "HIGH"
+      },
+      {
+        "domain": "contact@amazingcontent.io",
+        "company": "amazingcontent.io",
+        "status": "VERIFIED",
+        "mx_server": "ASPMX.L.GOOGLE.COM.",
+        "confidence": "HIGH"
+      }
+    ],
+    "unverified_emails": [
+      {
+        "domain": "[email protected]",
+        "company": "arpi.ai",
+        "status": "UNVERIFIED",
+        "reason": "SMTP returned code 553 (invalid address)",
+        "confidence": "LOW"
+      }
+    ]
+  }
+}

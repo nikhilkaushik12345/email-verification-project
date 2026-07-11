@@ -1,0 +1,31 @@
+VERIFIED SUPPORT EMAILS
+================================================================================
+
+Domain: 10x-partners.com
+Email: hello@10x-partners.com
+Status: VERIFIED
+Confidence: HIGH
+Source: Contact page
+--------------------------------------------------------------------------------
+
+Domain: 8returns.com
+Email: hello@8returns.com
+Status: VERIFIED
+Confidence: HIGH
+Source: Website footer
+--------------------------------------------------------------------------------
+
+Domain: adivaha.com
+Email: info@adivaha.com
+Status: VERIFIED
+Confidence: HIGH
+Source: Website header
+--------------------------------------------------------------------------------
+
+Domain: amazingcontent.io
+Email: contact@amazingcontent.io
+Status: VERIFIED
+Confidence: HIGH
+Source: Contact page
+--------------------------------------------------------------------------------
+

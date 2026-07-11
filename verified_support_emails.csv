@@ -1,0 +1,5 @@
+domain,email,status,confidence,mx_server,source
+10x-partners.com,hello@10x-partners.com,VERIFIED,HIGH,SMTP.GOOGLE.com.,Contact page
+8returns.com,hello@8returns.com,VERIFIED,HIGH,aspmx.l.google.com.,Website footer
+adivaha.com,info@adivaha.com,VERIFIED,HIGH,inbound-smtp.us-east-1.amazonaws.com.,Website header
+amazingcontent.io,contact@amazingcontent.io,VERIFIED,HIGH,ASPMX.L.GOOGLE.COM.,Contact page

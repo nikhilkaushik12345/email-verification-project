@@ -1,0 +1,3 @@
+domain,email,source,status,smtp_code,mx_host,confidence
+aimlapi.com,help@aimlapi.com,homepage,verified,250,smtp.google.com,95
+avada.io,support@avada.io,homepage,verified,250,alt2.aspmx.l.google.com,95

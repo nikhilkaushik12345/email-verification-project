@@ -1,0 +1,19 @@
+Domain,Email,Status,Source,Confidence
+8returns.com,support@8returns.com,Verified,Perplexity,High
+3bee.com,info@3bee.it,Verified,Perplexity,High
+aimlapi.com,help@aimlapi.com,Verified,Perplexity,High
+arpi.ai,contact@arpi.ai,Verified,Perplexity,High
+artisan.ai,hello@artisan.co,Verified,Perplexity,High
+atlas.ai,support@atlas-ai.io,Verified,Perplexity,High
+atomicai.com,info@atomic.ai,Verified,Perplexity,High
+avada.io,win@avada.io,Verified,Perplexity,High
+avantstay.com,experience@avantstay.com,Verified,Perplexity,High
+adivaha.com,info@adivaha.com,Verified,Perplexity,High
+amazingcontent.io,marketing@amazingcontent.io,Verified,Perplexity,High
+aide.app,support@aide.app,Inferred,Perplexity,Medium
+autogen.ai,support@autogenai.com,Inferred,Perplexity,Medium
+avantix.dev,info@avantix.app,Inferred,Perplexity,Medium
+10x-partners.com,Contact Form Only,No Email,Perplexity,Low
+arrise.com,privacy@arrise.com,Privacy Only,Perplexity,Low
+asana.com,mobile-feedback@support.asana.com,App Support Only,Perplexity,Low
+auraai.io,Not Found,No Email,Perplexity,Low

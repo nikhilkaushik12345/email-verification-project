@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "8returns.com",
+    "emails": [
+      "hello@8returns.com"
+    ],
+    "status": "found"
+  },
+  {
+    "domain": "adivaha.com",
+    "emails": [
+      "info@adivaha.com"
+    ],
+    "status": "found"
+  },
+  {
+    "domain": "amazingcontent.io",
+    "emails": [
+      "contact@amazingcontent.io"
+    ],
+    "status": "found"
+  },
+  {
+    "domain": "10x-partners.com",
+    "emails": [
+      "hello@10x-partners.com"
+    ],
+    "status": "found"
+  },
+  {
+    "domain": "arpi.ai",
+    "emails": [
+      "[email protected]"
+    ],
+    "status": "found"
+  },
+  {
+    "domain": "3bee.com",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "aide.app",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "aimlapi.com",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "arrise.com",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "artisan.ai",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "asana.com",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "atlas.ai",
+    "emails": [],
+    "status": "timeout"
+  },
+  {
+    "domain": "atomicai.com",
+    "emails": [],
+    "status": "no_connection"
+  },
+  {
+    "domain": "auraai.io",
+    "emails": [],
+    "status": "timeout"
+  },
+  {
+    "domain": "autogen.ai",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avada.io",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantstay.com",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantgarde.ai",
+    "emails": [],
+    "status": "timeout"
+  },
+  {
+    "domain": "avantis.ai",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "no_connection"
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "no_connection"
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email"
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "no_connection"
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email"
+  }
+]

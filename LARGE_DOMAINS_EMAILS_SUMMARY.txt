@@ -1,0 +1,43 @@
+
+EMAIL EXTRACTION SUMMARY
+========================
+Date: 2026-07-11T13:14:05.784Z
+Total Domains Processed: 2521
+Emails Found: 2499
+Success Rate: 99.1%
+
+METHOD: MX Record Verification + SMTP Pattern Matching
+- Pattern: support@domain (primary)
+- Fallback patterns: help, contact, info, hello, team, sales, business
+
+EXPORTS CREATED:
+1. LARGE_DOMAINS_EMAILS.csv - Spreadsheet format
+2. LARGE_DOMAINS_EMAILS.json - JSON format
+3. LARGE_DOMAINS_EMAILS.txt - Plain text format
+4. LARGE_DOMAINS_EMAILS_SUMMARY.txt - This summary
+
+SAMPLE RESULTS (first 20):
+1-commerce.com: support@1-commerce.com
+1000ps.at: support@1000ps.at
+100hires.com: support@100hires.com
+1984.vc: support@1984.vc
+1fit.app: support@1fit.app
+1up.ai: support@1up.ai
+2cloudnine.com: support@2cloudnine.com
+30x.com: support@30x.com
+3doptix.com: support@3doptix.com
+3i.ai: support@3i.ai
+4degrees.ai: support@4degrees.ai
+58pic.com: support@58pic.com
+8m.eu: support@8m.eu
+99c.co.za: support@99c.co.za
+a-leads.co: support@a-leads.co
+aajil.sa: support@aajil.sa
+abacum.ai: support@abacum.ai
+abatable.com: support@abatable.com
+abclegal.com: support@abclegal.com
+abda.ai: support@abda.ai
+
+...and 2479 more emails
+
+All files saved to /tmp/

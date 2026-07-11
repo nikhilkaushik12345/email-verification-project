@@ -1,0 +1,59 @@
+SMTP VERIFICATION REPORT
+═══════════════════════════════════════════════════════════════
+Date: 2026-07-11T13:25:28.361Z
+Total Emails Checked: 2499
+
+RESULTS:
+✅ Verified (Valid Mailboxes):  1697 (67.9%)
+❌ Failed/Invalid:              768 (30.7%)
+⏱️  Timeout:                     34 (1.4%)
+
+VERIFIED EMAILS (Sample - First 20):
+  ✓ support@1000ps.at
+  ✓ support@100hires.com
+  ✓ support@1fit.app
+  ✓ support@1up.ai
+  ✓ support@2cloudnine.com
+  ✓ support@30x.com
+  ✓ support@3doptix.com
+  ✓ support@3i.ai
+  ✓ support@4degrees.ai
+  ✓ support@58pic.com
+  ✓ support@a-leads.co
+  ✓ support@aajil.sa
+  ✓ support@abacum.ai
+  ✓ support@abatable.com
+  ✓ support@abclegal.com
+  ✓ support@abda.ai
+  ✓ support@abill.io
+  ✓ support@abundolive.se
+  ✓ support@academypl.us
+  ✓ support@acctual.com
+
+FAILED EMAILS (Sample - First 20):
+  ✗ support@1-commerce.com (invalid)
+  ✗ support@1984.vc (invalid)
+  ✗ support@8m.eu (invalid)
+  ✗ support@99c.co.za (invalid)
+  ✗ support@abenex.com (invalid)
+  ✗ support@absoluteinvestimentos.com.br (invalid)
+  ✗ support@accelera.tech (invalid)
+  ✗ support@accessowl.com (error)
+  ✗ support@acclinate.com (invalid)
+  ✗ support@aclarian.com (invalid)
+  ✗ support@actioneer.com (invalid)
+  ✗ support@adaptic.no (invalid)
+  ✗ support@adgeeks.ge (invalid)
+  ✗ support@adlabs.app (invalid)
+  ✗ support@adomos.com (invalid)
+  ✗ support@adventures.is (invalid)
+  ✗ support@adverteyes.ai (invalid)
+  ✗ support@aeroventures.com (invalid)
+  ✗ support@agentmail.to (invalid)
+  ✗ support@agrisafe.agr.br (invalid)
+
+FILES CREATED:
+  • SMTP_VERIFICATION_RESULTS.csv (2499 records)
+  • SMTP_VERIFICATION_RESULTS.json (2499 records)
+  • SMTP_VERIFICATION_SUMMARY.txt (this file)
+═══════════════════════════════════════════════════════════════

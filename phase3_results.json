@@ -1,0 +1,55 @@
+[
+  {
+    "email": "hello@10x-partners.com",
+    "domain": "10x-partners.com",
+    "mx_records": [
+      "SMTP.GOOGLE.com."
+    ],
+    "smtp_valid": true,
+    "status": "valid",
+    "details": "SMTP verification successful"
+  },
+  {
+    "email": "hello@8returns.com",
+    "domain": "8returns.com",
+    "mx_records": [
+      "aspmx.l.google.com.",
+      "alt1.aspmx.l.google.com."
+    ],
+    "smtp_valid": true,
+    "status": "valid",
+    "details": "SMTP verification successful"
+  },
+  {
+    "email": "info@adivaha.com",
+    "domain": "adivaha.com",
+    "mx_records": [
+      "inbound-smtp.us-east-1.amazonaws.com."
+    ],
+    "smtp_valid": true,
+    "status": "valid",
+    "details": "SMTP verification successful"
+  },
+  {
+    "email": "contact@amazingcontent.io",
+    "domain": "amazingcontent.io",
+    "mx_records": [
+      "ASPMX.L.GOOGLE.COM.",
+      "ALT1.ASPMX.L.GOOGLE.COM."
+    ],
+    "smtp_valid": true,
+    "status": "valid",
+    "details": "SMTP verification successful"
+  },
+  {
+    "email": "[email protected]",
+    "domain": "arpi.ai",
+    "mx_records": [
+      "aspmx.l.google.com.",
+      "alt1.aspmx.l.google.com."
+    ],
+    "smtp_valid": false,
+    "status": "unknown",
+    "details": "Server returned code 553"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "domain": "8returns.com",
+    "emails": [
+      "hello@8returns.com"
+    ],
+    "status": "found",
+    "source": "phase2"
+  },
+  {
+    "domain": "adivaha.com",
+    "emails": [
+      "info@adivaha.com"
+    ],
+    "status": "found",
+    "source": "phase2"
+  },
+  {
+    "domain": "amazingcontent.io",
+    "emails": [
+      "contact@amazingcontent.io"
+    ],
+    "status": "found",
+    "source": "phase2"
+  },
+  {
+    "domain": "10x-partners.com",
+    "emails": [
+      "hello@10x-partners.com"
+    ],
+    "status": "found",
+    "source": "phase2"
+  },
+  {
+    "domain": "arpi.ai",
+    "emails": [
+      "[email protected]"
+    ],
+    "status": "found",
+    "source": "phase2"
+  },
+  {
+    "domain": "3bee.com",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "aide.app",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "aimlapi.com",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "arrise.com",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "artisan.ai",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "asana.com",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "atlas.ai",
+    "emails": [],
+    "status": "timeout",
+    "source": ""
+  },
+  {
+    "domain": "atomicai.com",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "auraai.io",
+    "emails": [],
+    "status": "timeout",
+    "source": ""
+  },
+  {
+    "domain": "autogen.ai",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avada.io",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantstay.com",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantgarde.ai",
+    "emails": [],
+    "status": "timeout",
+    "source": ""
+  },
+  {
+    "domain": "avantis.ai",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.dev",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.io",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.net",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.org",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.tech",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  },
+  {
+    "domain": "avantix.us",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.xyz",
+    "emails": [],
+    "status": "no_email",
+    "source": ""
+  },
+  {
+    "domain": "avantix.co",
+    "emails": [],
+    "status": "connection_error",
+    "source": ""
+  }
+]

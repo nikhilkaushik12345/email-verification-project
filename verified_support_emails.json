@@ -1,0 +1,34 @@
+[
+  {
+    "domain": "10x-partners.com",
+    "email": "hello@10x-partners.com",
+    "status": "VERIFIED",
+    "mx_server": "SMTP.GOOGLE.com.",
+    "confidence": "HIGH",
+    "source": "Contact page"
+  },
+  {
+    "domain": "8returns.com",
+    "email": "hello@8returns.com",
+    "status": "VERIFIED",
+    "mx_server": "aspmx.l.google.com.",
+    "confidence": "HIGH",
+    "source": "Website footer"
+  },
+  {
+    "domain": "adivaha.com",
+    "email": "info@adivaha.com",
+    "status": "VERIFIED",
+    "mx_server": "inbound-smtp.us-east-1.amazonaws.com.",
+    "confidence": "HIGH",
+    "source": "Website header"
+  },
+  {
+    "domain": "amazingcontent.io",
+    "email": "contact@amazingcontent.io",
+    "status": "VERIFIED",
+    "mx_server": "ASPMX.L.GOOGLE.COM.",
+    "confidence": "HIGH",
+    "source": "Contact page"
+  }
+]

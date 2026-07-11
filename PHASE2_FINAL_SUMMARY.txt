@@ -1,0 +1,273 @@
+
+PHASE 2 RECOVERY - FINAL SUMMARY REPORT
+=======================================
+Generated: 2026-07-12 03:09:10
+
+PROJECT OVERVIEW:
+=================
+Total SMTP-verified failed domains: 768
+Phase 1 recovery (website crawler + Perplexity): 43 emails
+Phase 2 recovery (Perplexity batch searches): 80 emails
+TOTAL RECOVERED: 80 emails from 768 failed domains
+
+RECOVERY STATISTICS:
+====================
+Total emails recovered: 80
+Unique email addresses: 80
+Unique domains with emails: 51
+Overall recovery rate: 6.6%
+
+RECOVERY BY SOURCE:
+===================
+- Perplexity Batch 12: 27 emails
+- Website Crawler (JSON-LD): 15 emails
+- Perplexity Batch Search: 14 emails
+- Perplexity AI: 10 emails
+- Perplexity Batch 13: 6 emails
+- Perplexity Batch 14: 4 emails
+- Website Crawler: 3 emails
+- Website Crawler (JSON-LD Schema): 1 emails
+
+METHODOLOGY:
+============
+1. Perplexity AI searches on domain batches (primary method)
+2. Website Content Crawler on selected domains
+3. Contact Details Scraper on domain lists
+4. Manual verification of email formats
+
+KEY FINDINGS:
+=============
+- Perplexity AI searches proved most effective for batch processing
+- Website crawler effective for extracting JSON-LD structured data
+- Many failed domains are either inactive or don't publish contact emails
+- Success rate improved with targeted searches on specific domain patterns
+
+DOMAINS WITH RECOVERED EMAILS:
+==============================
+
+1984.vc:
+  - team@1984.vc
+
+99c.co.za:
+  - info@99c.co.za
+
+adventures.com:
+  - dpo@adventures.com
+
+adventures.is:
+  - custom@adventures.is
+  - info@adventures.is
+  - jonthor@adventures.is
+
+altuspower.com:
+  - hello@altuspower.com
+  - info@altuspower.com
+
+apter.com.br:
+  - dpo@apter.com.br
+
+austintechnology.com.au:
+  - support@austintechnology.com.au
+  - sales@austintechnology.com.au
+
+bdg.io:
+  - info@bdg.io
+
+cuemath.com:
+  - customercare@cuemath.com
+
+deconcern.nl:
+  - info@deconcern.nl
+
+deltaforge.tech:
+  - contactus@deltaforge.tech
+
+demola.net:
+  - ville@demola.net
+  - jere@demola.net
+  - mirza@demola.net
+
+devolens.com:
+  - help@devolens.com
+
+dma-group.co.uk:
+  - sales@dma-group.co.uk
+
+dobbyads.com:
+  - contact@dobbyads.com
+
+doktorsitesi.com:
+  - info@doktorsitesi.com
+
+drmgroup.com:
+  - info@drmgroup.com
+  - info-cn@drmgroup.com
+  - info-in@drmgroup.com
+  - info-pl@drmgroup.com
+  - info-us@drmgroup.com
+  - info-my@drmgroup.com
+
+e-cruce.com:
+  - info@e-cruce.com
+  - busquedas@e-cruce.com
+
+ebhoom.com:
+  - info@ebhoom.com
+
+evoluaenergia.com.br:
+  - comercial@evoluaenergia.com.br
+
+evolve-partners.com:
+  - infoUS@evolve.cc
+
+expertpartners.com:
+  - contact@expertpartners.com
+
+ezeep.com:
+  - support@ezeep.com
+
+ezekia.com:
+  - info@ezekia.com
+
+facilio.com:
+  - hello@facilio.com
+
+familux.com:
+  - info@familux.com
+
+fastbridgefiber.com:
+  - info@fastbridgefiber.com
+
+fastweigh.com:
+  - info@fastweigh.com
+
+feedspace.io:
+  - support@feedspace.io
+
+fiber.ai:
+  - hello@fiber.ai
+
+finalto.com:
+  - privacy@finalto.com
+  - compliance@finalto.com
+  - compliance.apac@finalto.com
+  - compliance.eu@finalto.com
+  - marketing@finalto.com
+
+forwardpartners.com:
+  - seed@forwardpartners.com
+
+freshbooks.com:
+  - support@freshbooks.com
+  - help@freshbooks.com
+  - accessibility@freshbooks.com
+  - pr@freshbooks.com
+  - privacy@freshbooks.com
+  - dpo@freshbooks.com
+  - security@freshbooks.com
+
+freshdesk.com:
+  - support@freshdesk.com
+  - sales@freshworks.com
+
+freyjaworld.com:
+  - info@freyja.co.in
+  - customercare@freyja.co.in
+
+freytech.com:
+  - info@freytech.com
+
+freytech.org:
+  - info@freytech.org
+  - support@freytech.org
+
+gab.ai:
+  - ai@gab.com
+  - support@gab.com
+  - legal@gab.com
+
+garlictech.com:
+  - contact@garlictech.com
+
+gather.ai:
+  - sales@gather.ai
+  - amanda@xrcventures.com
+  - daniel.maturana@gather.ai
+
+klealegal.com:
+  - privacy@quantios.com
+
+micador.com.au:
+  - amazing@micador.com.au
+
+pearldiver.io:
+  - support@pearldiver.io
+
+photoroom.com:
+  - support@photoroom.com
+
+point-topic.com:
+  - contact@point-topic.com
+
+powersupportpartners.com:
+  - support@powersupportpartners.com
+
+predictiveindex.com:
+  - support@predictiveindex.com
+
+prepared.app:
+  - support@prepared.app
+
+proemion.com:
+  - info@proemion.com
+
+shorta.com:
+  - legal@shorta.com
+
+thinksurance.de:
+  - info@thinksurance.de
+
+
+GITHUB REPOSITORY:
+==================
+URL: https://github.com/nikhilkaushik12345/email-verification-project
+Latest commit: 05b1432
+Files:
+- RECOVERED_EMAILS.csv (80 emails)
+- FINAL_LIST.txt (1,697 verified emails from Phase 1)
+- VERIFIED_EMAILS_SAFE_TO_SEND.csv (1,697 SMTP-verified)
+- FAILED_EMAILS_DO_NOT_SEND.csv (768 failed domains)
+- TIMEOUT_EMAILS_TEST_FIRST.csv (34 timeout domains)
+
+NEXT STEPS:
+===========
+1. Continue Phase 2 on remaining ~688 domains
+2. Run Website Content Crawler on larger batches
+3. Compile final comprehensive email list
+4. Generate final recovery report with all statistics
+
+RECOMMENDATIONS:
+================
+1. For remaining domains, focus on:
+   - Larger companies with established websites
+   - Domains with clear business models
+   - Tech/SaaS companies (higher contact email publication rate)
+
+2. Consider alternative methods for remaining domains:
+   - LinkedIn company pages
+   - WHOIS contact information
+   - Business directories (Crunchbase, ZoomInfo)
+   - Direct website contact forms
+
+3. Email validation:
+   - All recovered emails should be SMTP-verified before use
+   - Consider bounce rate testing on sample
+   - Monitor delivery rates for campaign optimization
+
+PROJECT STATUS: IN PROGRESS
+============================
+Phase 1: COMPLETE (43 emails recovered)
+Phase 2: IN PROGRESS (80 emails recovered, ~688 domains remaining)
+Phase 3: PENDING (final compilation and reporting)
+
+Estimated completion: Within 24-48 hours

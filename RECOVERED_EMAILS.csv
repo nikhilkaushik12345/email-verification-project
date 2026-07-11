@@ -1,81 +1,88 @@
-email,domain,type,source,status
-team@1984.vc,1984.vc,Team/General Contact,Perplexity AI,recovered
-custom@adventures.is,adventures.is,Custom Tours,Perplexity AI,recovered
-info@adventures.is,adventures.is,General Inquiries,Perplexity AI,recovered
-dpo@adventures.com,adventures.com,Data Protection Officer,Perplexity AI,recovered
-jonthor@adventures.is,adventures.is,CEO Contact,Perplexity AI,recovered
-hello@altuspower.com,altuspower.com,Customer Experience,Perplexity AI,recovered
-info@altuspower.com,altuspower.com,General Contact,Perplexity AI,recovered
-dpo@apter.com.br,apter.com.br,Data Protection Officer,Perplexity AI,recovered
-support@austintechnology.com.au,austintechnology.com.au,Support,Perplexity AI,recovered
-sales@austintechnology.com.au,austintechnology.com.au,Sales,Perplexity AI,recovered
-info@99c.co.za,99c.co.za,General Contact,Website Crawler (JSON-LD Schema),recovered
-info@bdg.io,bdg.io,General Contact,Perplexity Batch Search,recovered
-customercare@cuemath.com,cuemath.com,Customer Care,Perplexity Batch Search,recovered
-comercial@evoluaenergia.com.br,evoluaenergia.com.br,Commercial Contact,Perplexity Batch Search,recovered
-privacy@quantios.com,klealegal.com,Privacy/General Contact,Perplexity Batch Search,recovered
-amazing@micador.com.au,micador.com.au,General Contact,Perplexity Batch Search,recovered
-support@pearldiver.io,pearldiver.io,Support,Perplexity Batch Search,recovered
-support@photoroom.com,photoroom.com,Support,Perplexity Batch Search,recovered
-contact@point-topic.com,point-topic.com,Contact,Perplexity Batch Search,recovered
-support@powersupportpartners.com,powersupportpartners.com,Support,Perplexity Batch Search,recovered
-support@predictiveindex.com,predictiveindex.com,Support,Perplexity Batch Search,recovered
-support@prepared.app,prepared.app,Support,Perplexity Batch Search,recovered
-info@proemion.com,proemion.com,General Contact,Perplexity Batch Search,recovered
-legal@shorta.com,shorta.com,Legal Contact,Perplexity Batch Search,recovered
-info@thinksurance.de,thinksurance.de,General Contact,Perplexity Batch Search,recovered
-contactus@deltaforge.tech,deltaforge.tech,Customer Service,Website Crawler (JSON-LD),recovered
-info@deconcern.nl,deconcern.nl,General Contact,Website Crawler (JSON-LD),recovered
-help@devolens.com,devolens.com,Customer Support,Website Crawler (JSON-LD),recovered
-ville@demola.net,demola.net,Direct Contact,Website Crawler,recovered
-jere@demola.net,demola.net,Direct Contact,Website Crawler,recovered
-mirza@demola.net,demola.net,Direct Contact,Website Crawler,recovered
-sales@dma-group.co.uk,dma-group.co.uk,Sales,Website Crawler (JSON-LD),recovered
-info@doktorsitesi.com,doktorsitesi.com,General Contact,Website Crawler (JSON-LD),recovered
-contact@dobbyads.com,dobbyads.com,General Contact,Website Crawler (JSON-LD),recovered
-info@drmgroup.com,drmgroup.com,General Contact,Website Crawler (JSON-LD),recovered
-info-cn@drmgroup.com,drmgroup.com,Regional Contact,Website Crawler (JSON-LD),recovered
-info-in@drmgroup.com,drmgroup.com,Regional Contact,Website Crawler (JSON-LD),recovered
-info-pl@drmgroup.com,drmgroup.com,Regional Contact,Website Crawler (JSON-LD),recovered
-info-us@drmgroup.com,drmgroup.com,Regional Contact,Website Crawler (JSON-LD),recovered
-info-my@drmgroup.com,drmgroup.com,Regional Contact,Website Crawler (JSON-LD),recovered
-info@e-cruce.com,e-cruce.com,Customer Support,Website Crawler (JSON-LD),recovered
-busquedas@e-cruce.com,e-cruce.com,HR,Website Crawler (JSON-LD),recovered
-info@ebhoom.com,ebhoom.com,General Contact,Website Crawler (JSON-LD),recovered
-infoUS@evolve.cc,evolve-partners.com,Support/Contact,Perplexity Batch 12,recovered
-contact@expertpartners.com,expertpartners.com,Support/Contact,Perplexity Batch 12,recovered
-support@ezeep.com,ezeep.com,Support/Contact,Perplexity Batch 12,recovered
-info@ezekia.com,ezekia.com,Support/Contact,Perplexity Batch 12,recovered
-hello@facilio.com,facilio.com,Support/Contact,Perplexity Batch 12,recovered
-info@familux.com,familux.com,Support/Contact,Perplexity Batch 12,recovered
-info@fastbridgefiber.com,fastbridgefiber.com,Support/Contact,Perplexity Batch 12,recovered
-info@fastweigh.com,fastweigh.com,Support/Contact,Perplexity Batch 12,recovered
-support@feedspace.io,feedspace.io,Support/Contact,Perplexity Batch 12,recovered
-hello@fiber.ai,fiber.ai,Support/Contact,Perplexity Batch 12,recovered
-privacy@finalto.com,finalto.com,Support/Contact,Perplexity Batch 12,recovered
-compliance@finalto.com,finalto.com,Support/Contact,Perplexity Batch 12,recovered
-compliance.apac@finalto.com,finalto.com,Support/Contact,Perplexity Batch 12,recovered
-compliance.eu@finalto.com,finalto.com,Support/Contact,Perplexity Batch 12,recovered
-marketing@finalto.com,finalto.com,Support/Contact,Perplexity Batch 12,recovered
-seed@forwardpartners.com,forwardpartners.com,Support/Contact,Perplexity Batch 12,recovered
-support@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-help@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-accessibility@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-pr@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-privacy@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-dpo@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-security@freshbooks.com,freshbooks.com,Support/Contact,Perplexity Batch 12,recovered
-support@freshdesk.com,freshdesk.com,Support/Contact,Perplexity Batch 12,recovered
-sales@freshworks.com,freshdesk.com,Support/Contact,Perplexity Batch 12,recovered
-info@freyja.co.in,freyjaworld.com,Support/Contact,Perplexity Batch 12,recovered
-customercare@freyja.co.in,freyjaworld.com,Support/Contact,Perplexity Batch 12,recovered
-info@freytech.org,freytech.org,Support/Contact,Perplexity Batch 13,recovered
-support@freytech.org,freytech.org,Support/Contact,Perplexity Batch 13,recovered
-info@freytech.com,freytech.com,Support/Contact,Perplexity Batch 13,recovered
-ai@gab.com,gab.ai,Support/Contact,Perplexity Batch 13,recovered
-support@gab.com,gab.ai,Support/Contact,Perplexity Batch 13,recovered
-legal@gab.com,gab.ai,Support/Contact,Perplexity Batch 13,recovered
-contact@garlictech.com,garlictech.com,Support/Contact,Perplexity Batch 14,recovered
-sales@gather.ai,gather.ai,Support/Contact,Perplexity Batch 14,recovered
-amanda@xrcventures.com,gather.ai,Support/Contact,Perplexity Batch 14,recovered
-daniel.maturana@gather.ai,gather.ai,Support/Contact,Perplexity Batch 14,recovered
+domain,email,source,date_found
+1984.vc,team@1984.vc,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+99c.co.za,info@99c.co.za,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+adventures.com,dpo@adventures.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+adventures.is,custom@adventures.is,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+adventures.is,info@adventures.is,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+adventures.is,jonthor@adventures.is,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+altuspower.com,hello@altuspower.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+altuspower.com,info@altuspower.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+apter.com.br,dpo@apter.com.br,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+austintechnology.com.au,support@austintechnology.com.au,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+austintechnology.com.au,sales@austintechnology.com.au,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+bdg.io,info@bdg.io,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+clint.digital,suporte@clint.digital,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cobratate.com,press@cobratate.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cobratate.com,support@cobratate.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cobratate.com,cobratatenews@gmail.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cobratate.com,tate@cobratate.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cobratate.com,freetopg@cobratate.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+converge.it,info@convergeit.tech,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+cuemath.com,customercare@cuemath.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+deconcern.nl,info@deconcern.nl,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+deltaforge.tech,contactus@deltaforge.tech,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+demola.net,ville@demola.net,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+demola.net,jere@demola.net,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+demola.net,mirza@demola.net,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+devolens.com,help@devolens.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+dma-group.co.uk,sales@dma-group.co.uk,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+dobbyads.com,contact@dobbyads.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+doktorsitesi.com,info@doktorsitesi.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info-cn@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info-in@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info-pl@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info-us@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+drmgroup.com,info-my@drmgroup.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+e-cruce.com,info@e-cruce.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+e-cruce.com,busquedas@e-cruce.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+ebhoom.com,info@ebhoom.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+evoluaenergia.com.br,comercial@evoluaenergia.com.br,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+evolve-partners.com,infoUS@evolve.cc,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+expertpartners.com,contact@expertpartners.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+ezeep.com,support@ezeep.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+ezekia.com,info@ezekia.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+facilio.com,hello@facilio.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+familux.com,info@familux.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+fastbridgefiber.com,info@fastbridgefiber.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+fastweigh.com,info@fastweigh.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+feedspace.io,support@feedspace.io,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+fiber.ai,hello@fiber.ai,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+finalto.com,privacy@finalto.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+finalto.com,compliance@finalto.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+finalto.com,compliance.apac@finalto.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+finalto.com,compliance.eu@finalto.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+finalto.com,marketing@finalto.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+forwardpartners.com,seed@forwardpartners.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,support@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,help@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,accessibility@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,pr@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,privacy@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,dpo@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshbooks.com,security@freshbooks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshdesk.com,support@freshdesk.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freshdesk.com,sales@freshworks.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freyjaworld.com,info@freyja.co.in,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freyjaworld.com,customercare@freyja.co.in,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freytech.com,info@freytech.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freytech.org,info@freytech.org,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+freytech.org,support@freytech.org,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gab.ai,ai@gab.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gab.ai,support@gab.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gab.ai,legal@gab.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+garlictech.com,contact@garlictech.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gather.ai,sales@gather.ai,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gather.ai,amanda@xrcventures.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+gather.ai,daniel.maturana@gather.ai,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+klealegal.com,privacy@quantios.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+micador.com.au,amazing@micador.com.au,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+pearldiver.io,support@pearldiver.io,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+photoroom.com,support@photoroom.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+point-topic.com,contact@point-topic.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+powersupportpartners.com,support@powersupportpartners.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+predictiveindex.com,support@predictiveindex.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+prepared.app,support@prepared.app,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+proemion.com,info@proemion.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+shorta.com,legal@shorta.com,Perplexity AI + Website Crawler,2026-07-12 03:12:06
+thinksurance.de,info@thinksurance.de,Perplexity AI + Website Crawler,2026-07-12 03:12:06
